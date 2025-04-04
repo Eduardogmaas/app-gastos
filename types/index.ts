@@ -1,0 +1,1 @@
+export type ExpenseCategory = 'mercado'|'combustível'|'lazer'|'alimentação'|'outros'; 
